@@ -32,7 +32,8 @@ github:
 
 title: My project
 subTitle: This is a great project.
-fontAwesomeIcon: fa fa-rocket
+# the icon next to page title from Font Awesome library
+fontAwesomeIcon: fa fa-hand-peace-o
 footerText: This is a footer text
 
 # The left menu bar
