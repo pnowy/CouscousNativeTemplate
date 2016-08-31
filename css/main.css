@@ -69,9 +69,17 @@ img {
     font-weight: 500;
 }
 
-/*----------------------
-       HEADER
------------------------*/
+/* OVERRIDE BOOTSTRAP */
+pre {
+    padding: 0;
+}
+.nav>li>a {
+    padding: 5px 15px;
+}
+
+    /*----------------------
+           HEADER
+    -----------------------*/
 .site-header {
     padding: 5% 0 5% 0;
     background: #303538;
