@@ -77,9 +77,9 @@ pre {
     padding: 5px 15px;
 }
 
-    /*----------------------
-           HEADER
-    -----------------------*/
+/*----------------------
+       HEADER
+-----------------------*/
 .site-header {
     padding: 5% 0 5% 0;
     background: #303538;
@@ -151,3 +151,28 @@ pre {
 
 .site-footer .bottom-panel a i { font-size: 24px; }
 .site-footer .bottom-panel a:hover i { transform: scale(2); }
+
+
+/* Desktop-First approach. General selectors and styles designed to make the site look good on DESKTOP screens go here.
+But they affect all devices, and must be overridden by media queries targeting INCREASINGLY SMALLER screens */
+
+@media (max-width: 979px) {
+    /* Selectors and styles affecting screens UP TO 979px (Desktop) */
+}
+
+@media (max-width: 767px) {
+    /* Selectors and styles affecting screens UP TO 767px (Tablet) */
+}
+
+@media (max-width: 480px) {
+    /* Selectors and styles affecting screens UP TO 480px (Phone) */
+    .site-header .site-name {
+        font-size: 36px;
+    }
+    h2, h3 {
+        font-size: 18px;
+    }
+    .content {
+        font-size: 14px;
+    }
+}
