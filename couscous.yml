@@ -9,6 +9,7 @@ title: Native Couscous template
 subTitle: The template for Couscous
 fontAwesomeIcon: fa fa-hand-peace-o
 footerText: This is a footer text
+# googleAnalyticsCode: U-EXAMPLE-CODE
 
 # The left menu bar
 menu:
