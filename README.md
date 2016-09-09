@@ -35,6 +35,7 @@ subTitle: This is a great project.
 # the icon next to page title from Font Awesome library
 fontAwesomeIcon: fa fa-hand-peace-o
 footerText: This is a footer text
+googleAnalyticsCode: GOOGLE-ANALYTICS-CODE
 
 # The left menu bar
 menu:
