@@ -4,7 +4,7 @@ currentMenu: home
 
 # Couscous 'Native' Template
 
-This template is build based of the Couscous Dark template for one of my open source project. You could see this template in action on [NativeCriteria](http://pnowy.github.io/NativeCriteria/) GitHub project.
+This template is build based of the Couscous Dark template for one of my open source project.
 
 ![](screenshot.png)
 
